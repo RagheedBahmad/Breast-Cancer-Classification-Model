@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Pipenv (Final Project - CMPS261 - Raghead Bahmad)" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="Pipenv (Final Project - CMPS261 - Raghead Bahmad)" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
